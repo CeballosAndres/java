@@ -8,6 +8,9 @@ Casa casas[] = new Casa[5];
 
 
 public void registrarCasa(){
+    //flasdf
+    //dsfklfjlsjdf flsadj fls
+    
     Casa home = new Casa();
     home.registrar();
     casas[numCasas] = home;
